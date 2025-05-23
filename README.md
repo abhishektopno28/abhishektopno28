@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Topno! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=580&lines=Competitive+Programmer+%7C+Aspiring+Quant;ML+Enthusiast+%7C+Engineering+Student;Passionate+about+HFT%2C+Quant+and+CP.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=580&lines=Competitive+Programmer+%7C+Aspiring+Quant+Trader;Avid+Learner+%7C+ML+Enthusiast;Passionate+about+High+Frequency+Trading.)](https://git.io/typing-svg)
 
 ---
 
